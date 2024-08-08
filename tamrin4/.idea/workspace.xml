@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b49bf9d-0eaf-474b-8c42-6bee1781d04f" name="Changes" comment="mesal array linked list">
-      <change beforePath="$PROJECT_DIR$/../mesal7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mesal7/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3b49bf9d-0eaf-474b-8c42-6bee1781d04f" name="Changes" comment="mesal array linked list" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +22,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Dell/m1/mesal7"
+    "last_opened_file_path": "C:/Users/Dell/m1/tamrin4"
   }
 }]]></component>
   <component name="Push.Settings">
@@ -60,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723126469187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mesal array linked list">
+      <created>1723127127442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723127127442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
