@@ -97,6 +97,7 @@
       <option name="project" value="LOCAL" />
       <updated>1723125285074</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00010" summary="mesal array linked list">
       <created>1723125322104</created>
       <option name="number" value="00010" />
@@ -105,6 +106,9 @@
       <updated>1723125322104</updated>
     </task>
     <option name="localTasksCounter" value="11" />
+=======
+    <option name="localTasksCounter" value="10" />
+>>>>>>> origin/master
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
