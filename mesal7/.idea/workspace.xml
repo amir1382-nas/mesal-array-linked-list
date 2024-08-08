@@ -4,13 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55c8bac9-db8f-4a3f-bffe-c01f50fb3aa6" name="Changes" comment="" />
+    <list default="true" id="c8a55661-ce19-4e7a-a980-74d32ed299ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../mesal6/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mesal6/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mesal6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mesal6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tamrin4/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tamrin4/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tamrin4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tamrin4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2kNKQzYhdYyKKsDuRstXdXVb3yB" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2kNO3AKLCNRKA93KQgWkwu1Mm5a" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,11 +37,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="55c8bac9-db8f-4a3f-bffe-c01f50fb3aa6" name="Changes" comment="" />
-      <created>1723118583956</created>
+      <changelist id="c8a55661-ce19-4e7a-a980-74d32ed299ee" name="Changes" comment="" />
+      <created>1723120368436</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1723118583956</updated>
+      <updated>1723120368436</updated>
     </task>
     <servers />
   </component>

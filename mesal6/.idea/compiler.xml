@@ -9,5 +9,8 @@
         <module name="mesal6" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mesal6" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

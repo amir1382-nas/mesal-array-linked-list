@@ -9,5 +9,8 @@
         <module name="tamrin4" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tamrin4" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
